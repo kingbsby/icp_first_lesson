@@ -9,11 +9,10 @@
         "icp_first_lesson"
       ],
       "frontend": {
-        "entrypoint": "src/icp_first_lesson_assets/src/index.html"
+        "entrypoint": "src/icp_first_lesson_assets/assets/index.html"
       },
       "source": [
-        "src/icp_first_lesson_assets/assets",
-        "dist/icp_first_lesson_assets/"
+        "src/icp_first_lesson_assets/assets"
       ],
       "type": "assets"
     }
